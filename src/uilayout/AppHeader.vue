@@ -21,7 +21,7 @@
                 <!--<a class="nav-item" href="#">莆田系医院</a>-->
                 <!--<a class="nav-item" href="#">医疗事故</a>-->
                 <span class="nav-item">
-                    <a class="button is-small is-light is-outlined" href="https://github.com/putianxi/putianxi.github.io/raw/master/assets/data/hospital.xlsx">
+                    <a class="button is-small is-light is-outlined" href="#">
                         <span class="icon"><i class="fa fa-download"></i></span>
                         <span>下载</span>
                     </a>
