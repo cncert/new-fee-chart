@@ -1,5 +1,7 @@
 #!/Users/lele/env/flask/bin/python3
 # -*- coding: utf-8 -*-
+# 获取行政区
+
 import requests
 import json
 from collections import defaultdict
